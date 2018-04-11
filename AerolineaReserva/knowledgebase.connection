@@ -1,0 +1,10 @@
+﻿<ConnectionInformation>
+	<DBName>GX_KB_AerolineaReserva</DBName>
+	<IntegratedSecurity>True</IntegratedSecurity>
+	<ServerInstance>LAPTOP-I5OMGKU0\SQLEXPRESS</ServerInstance>
+	<CreateDbInKbFolder>True</CreateDbInKbFolder>
+	<Directory>C:\Models\AerolineaReserva</Directory>
+	<DataFile>GX_KB_AerolineaReserva.mdf</DataFile>
+	<LogFile>GX_KB_AerolineaReserva_log.ldf</LogFile>
+	<HostName>LAPTOP-I5OMGKU0</HostName>
+</ConnectionInformation>
